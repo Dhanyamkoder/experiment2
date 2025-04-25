@@ -5,7 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import org.testng.annotations.AfterTest;
-public class Webpagetest {
+public class WebpageTest {
     private static WebDriver driver;
 
     @BeforeTest
